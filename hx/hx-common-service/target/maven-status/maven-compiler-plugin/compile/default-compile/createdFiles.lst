@@ -1,3 +1,4 @@
-org\hx\common\service\service\order\WholesaleOrderService.class
 org\hx\common\service\HxCommonServiceApplication.class
 org\hx\common\service\entity\order\WholesaleOrder.class
+org\hx\common\service\service\redis\RedisService.class
+org\hx\common\service\service\order\WholesaleOrderService.class
