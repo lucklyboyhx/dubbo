@@ -1,0 +1,6 @@
+org\hx\rabbitmq\RabbitmqReceiver.class
+org\hx\rabbitmq\Rabbitmq.class
+org\hx\rabbitmq\RabbitConfig.class
+org\hx\rabbitmq\RabbitConfig$1.class
+org\hx\rabbitmq\service\RabbitmqServiceImpl.class
+org\hx\rabbitmq\HxRabbitmqApplication.class

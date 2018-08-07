@@ -1,4 +1,16 @@
+org\hx\common\service\entity\base\ExpPrefixUtil.class
+org\hx\common\service\util\AnnotationUtil.class
+org\hx\common\service\util\ClassUtil.class
+org\hx\common\service\entity\base\CommonBizException.class
+org\hx\common\service\entity\user\User.class
+org\hx\common\service\util\ClassUtil$1.class
 org\hx\common\service\HxCommonServiceApplication.class
 org\hx\common\service\entity\order\WholesaleOrder.class
+org\hx\common\service\entity\base\AccessAuth.class
+org\hx\common\service\entity\base\CommonSysException.class
+org\hx\common\service\entity\base\Result.class
 org\hx\common\service\service\redis\RedisService.class
 org\hx\common\service\service\order\WholesaleOrderService.class
+org\hx\common\service\entity\user\LoginReq.class
+org\hx\common\service\entity\base\ExpCodeEnum.class
+org\hx\common\service\service\rabbitmq\RabbitmqService.class
