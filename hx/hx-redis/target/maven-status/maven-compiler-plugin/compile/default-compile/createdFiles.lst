@@ -1,5 +1,5 @@
+org\hx\redis\RedisConfig.class
 org\hx\redis\SpringContextHolder.class
 org\hx\redis\service\RedisUtil.class
 org\hx\redis\service\RedisServiceImpl.class
-org\hx\redis\RedisConfig.class
 org\hx\redis\HxRedisApplication.class

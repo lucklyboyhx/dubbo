@@ -1,9 +1,11 @@
 org\hx\controller\annotation\Login.class
-org\hx\controller\InitAuth.class
-org\hx\controller\HxControllerApplication.class
-org\hx\controller\AccessAuthHandle.class
 org\hx\controller\order\OrderController.class
 org\hx\controller\user\UserController.class
 org\hx\controller\annotation\Permission.class
-org\hx\controller\annotation\AuthScan.class
 org\hx\controller\annotation\LoginRequired.class
+org\hx\controller\InitAuth.class
+org\hx\controller\HxControllerApplication.class
+org\hx\controller\AccessAuthHandle.class
+org\hx\controller\ExceptionHandle.class
+org\hx\controller\LogHandle.class
+org\hx\controller\annotation\AuthScan.class

@@ -1,10 +1,13 @@
 package org.hx.controller.user;
 
+
 import java.util.ArrayList;
 import java.util.List;
 
 import javax.servlet.http.HttpServletResponse;
 
+import org.hx.common.service.entity.base.CommonBizException;
+import org.hx.common.service.entity.base.ExpCodeEnum;
 import org.hx.common.service.entity.base.Result;
 import org.hx.common.service.entity.user.LoginReq;
 import org.hx.common.service.entity.user.User;
@@ -41,6 +44,11 @@ public class UserController {
         resources.add("update");
         resources.add("save");
         user.setPermissions(resources);
+        boolean a = false;
+        if (!a) {
+            throw new CommonBizException(ExpCodeEnum.UNKNOW_ERROR);
+            
+        }
         return Result.newSuccessResult(user);
     }
 }

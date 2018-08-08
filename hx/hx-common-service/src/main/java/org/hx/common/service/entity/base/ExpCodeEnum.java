@@ -3,7 +3,7 @@ package org.hx.common.service.entity.base;
 import java.io.Serializable;
 
 /**
- * @Author 大闲人柴毛毛
+ * @Author hx
  * @Date 2017/10/27 下午10:37
  * 全局的异常状态码 和 异常描述
  *
